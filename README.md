@@ -4,8 +4,9 @@ Use apollo server with express to demo a simple usage of graphql
 # Installation 
 
 ```
-cp .env.example .env
-npm install
+$ cp .env.example .env
+$ npm install
+$ npm start
 ```
 
 # Usage
