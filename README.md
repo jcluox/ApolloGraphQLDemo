@@ -18,3 +18,8 @@ Turn to playground to test the server
 ```
 http://localhost:4000/graphql
 ```
+
+# Description
+The demo shows a simple social network by Apollo Server (Express). 
+Two objects User and Post are included. 
+The data of users and posts are mocked, you could see them in resolvers.js.
