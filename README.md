@@ -1,12 +1,12 @@
 # Apollo GraphQL Demon
 Use apollo server with express to demo a simple usage of graphql
 
-# Description
+## Description
 The demo shows a simple social network by Apollo Server (Express). 
 Two objects User and Post are included. 
 The data of users and posts are mocked, you could see them in resolvers.js.
 
-# Installation 
+## Installation 
 
 ```
 $ cp .env.example .env
@@ -14,7 +14,7 @@ $ npm install
 $ npm start
 ```
 
-# Usage
+## Usage
 
 The default port is 4000, you could change it in .env file if you need.
 
